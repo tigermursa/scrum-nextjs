@@ -1,3 +1,36 @@
+
+https://jsonplaceholder.typicode.com/users
+
+{new Date().toLocaleTimeString()}
+const response = await fetch("https://jsonplaceholder.typicode.com/users", {
+      next :{revalidate :10},
+    });
+ <p>{new Date().toLocaleTimeString()}</p>
+
+const ServerFetching = async () => {
+  const loadBlogData = async () => {
+    const response = await fetch("https://jsonplaceholder.typicode.com/users", {
+      cache: "force-cache",
+    });
+    return response.json();
+  };
+
+   <!-- {blogs.map(({ id, name, email }) => (
+        <div key={id} className="block border border-blue-600 p-2 my-2 hover:font-bold bg-black hover:bg-slate-700 text-white w-2/3 cursor-pointer ">
+          <h1>
+            {id}.{name}
+          </h1>
+        </div>
+      ))} -->
+
+
+
+Rendering in web development is the process of displaying website content on a user's browser
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

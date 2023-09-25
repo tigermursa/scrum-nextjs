@@ -1,0 +1,39 @@
+1)Imperative vs Declarative Programming ? 
+1)What is React ?
+2)What is Next js ? 
+3)Classic Next js vs Next js 13 ?
+3)Why Should we Learn Next js ? 
+21)Some website using Next js ? (photo)
+12)why next js is good for SEO ?
+4)Websites before SPA ? 
+5)Website After SPA ?
+6)Website now with Next js ?
+7)What is Rendering ?
+8)Pre-Rendering vs CSR? (photo)
+9)Server components vs Client Components ?
+9)What is SSG ? example 
+10)What is SSR ? example 
+11)SSG VS SSR ?
+12)What is ISR and why ?
+13)Initial Folder structure  of next js 13
+14) Page.js 
+15) Layout.js  (study more)
+16)Template.js (study more)
+17)What is caching in next js ? (study more)
+25)what is cookies ? (study more)
+18)What is Edge Runtime and why next js use that ? (study more)
+19)What is Middleware ? (study more)
+20)What is Rust  ? (study more)
+23)Next js Routes (study more)
+24)Styling .(study more)
+25)what is cookies ? (study more)
+26)Do we need  redux in next js ?
+22)Server site fetching vs Client site fetching with demo api .
+27)What is missing in Next js ?  (study more)
+
+84-1: NextJS Image component
+
+
+
+
+
